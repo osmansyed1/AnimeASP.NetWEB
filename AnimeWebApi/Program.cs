@@ -17,7 +17,8 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<ICharacterRepository,CharacterRepository>();
 builder.Services.AddScoped<IAnimeRepository,AnimeRepository>();
-builder.Services.AddScoped<IDirectorRepository,DirectorRepository>();   
+builder.Services.AddScoped<IDirectorRepository,DirectorRepository>(); 
+builder.Services.AddScoped<IViewerRepository,ViewerRepository>();
 
 
 builder.Services.AddDbContext<DataContext>(options =>

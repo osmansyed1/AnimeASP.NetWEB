@@ -139,7 +139,7 @@ namespace AnimeWebApi.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
 
-        [HttpPost]
+       
         public  IActionResult CreateAnime([FromBody] AnimeDto createAnimeDto)
         {
             if (createAnimeDto == null)
@@ -154,7 +154,9 @@ namespace AnimeWebApi.Controllers
 
             // Check if the related entities exist
             
-
+            //Here I did  not use _mapper,To insert the value of Two Foreign key i.e CharacterId and 
+            //directorId I am creating an object of Anime to manually store two foreign key
+            //oytherwaise it will give error FK_anime_characterId mismatch in original table
             var anime = new Anime
             {
                 Title = createAnimeDto.Title,

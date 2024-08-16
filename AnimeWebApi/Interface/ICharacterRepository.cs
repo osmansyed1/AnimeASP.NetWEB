@@ -10,6 +10,8 @@ namespace AnimeWebApi.Interface
 
         bool isCharacterExists(int charID);
 
+        List<Character> GetCharacterAnime();
+
         bool CreateCharacter(Character character);
 
         bool UpdaterCharacter(Character character); 

@@ -19,19 +19,33 @@ namespace AnimeWebApi.Controllers
             _mapper = mapper;
         }
 
+        /*  [HttpGet]
+          [ProducesResponseType(StatusCodes.Status200OK)]
+          [ProducesResponseType(StatusCodes.Status400BadRequest)]
+          [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+
+          public IActionResult GetCharacters()
+          {
+
+              var characters = _mapper.Map<List<CharacterDto>>(_characterRepository.GetCharacters());
+              if (!ModelState.IsValid)
+                  return BadRequest(ModelState);
+
+              return Ok(characters);
+          }*/
+
+
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-
-        public IActionResult GetCharacters()
+        public IActionResult GetCharacterWithAnime()
         {
-
-            var characters = _mapper.Map<List<CharacterDto>>(_characterRepository.GetCharacters()); 
+            var charracterAnimeJoin = _mapper.Map<List<CharacterDto>>(_characterRepository.GetCharacterAnime());
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            return Ok(characters);
+            return Ok(charracterAnimeJoin);
         }
 
         [HttpGet("{charID}")]
@@ -43,7 +57,7 @@ namespace AnimeWebApi.Controllers
         {
             if(!_characterRepository.isCharacterExists(charID))
             { 
-                return NotFound();
+                return NotFound(ModelState);
             }
 
             var character= _mapper.Map<CharacterDto>(_characterRepository.GetCharacter(charID));

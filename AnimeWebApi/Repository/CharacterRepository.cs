@@ -1,6 +1,7 @@
 ﻿using AnimeWebApi.Data;
 using AnimeWebApi.Interface;
 using AnimeWebApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AnimeWebApi.Repository
 {
@@ -29,6 +30,12 @@ namespace AnimeWebApi.Repository
         {
             return _context.characters.Where(c => c.Id == charId).FirstOrDefault();
 
+        }
+
+        public List<Character> GetCharacterAnime()
+        {
+            return _context.characters.Include(e=>e.anime).ToList();
+                
         }
 
         public ICollection<Character> GetCharacters()
