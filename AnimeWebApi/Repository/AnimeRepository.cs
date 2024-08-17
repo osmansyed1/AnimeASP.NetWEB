@@ -1,6 +1,7 @@
 ﻿using AnimeWebApi.Data;
 using AnimeWebApi.Interface;
 using AnimeWebApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AnimeWebApi.Repository
 {
@@ -41,6 +42,11 @@ namespace AnimeWebApi.Repository
             return _context.animes.ToList();
         }
 
+        public ICollection<Anime> GetAnimeWithViewer()
+        {
+            return _context.animes.Include(a=>a.AnimeViewers).ThenInclude(av=>av.Viewer).ToList();
+        }
+
         public Character GetCharacterById(int id)
         {
             return _context.characters.Where(c => c.Id == id).FirstOrDefault();
@@ -49,6 +55,11 @@ namespace AnimeWebApi.Repository
         public Director GetDirectorById(int id)
         {
             return _context.directors.Where(d => d.Id == id).FirstOrDefault();
+        }
+
+        public ICollection<Viewer> GetViewerByAnime(int animeId)
+        {
+            return _context.animeviews.Where(a=>a.AnimeId == animeId).Select(a=>a.Viewer).ToList();
         }
 
         public bool isAnimeExistByName(string animeName)

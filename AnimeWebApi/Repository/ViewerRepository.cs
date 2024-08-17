@@ -12,7 +12,7 @@ namespace AnimeWebApi.Repository
         {
             _context = context;
         }
-
+    
         public ICollection<Anime> GetAnimeByViewer(int viewerId)
         {
             return _context.animeviews.Where(e=>e.ViewerId == viewerId).Select(v=>v.Anime).ToList();

@@ -7,6 +7,10 @@ namespace AnimeWebApi.Interface
        ICollection<Anime> GetAnimes();
         Anime GetAnime(int animeId);
 
+        ICollection<Viewer> GetViewerByAnime(int animeId);
+
+        ICollection<Anime> GetAnimeWithViewer();
+
         bool isAnimeExists(int animeId);  
         
         Anime GetAnimeByName(string animeName);

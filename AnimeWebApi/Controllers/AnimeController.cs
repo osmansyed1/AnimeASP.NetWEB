@@ -36,12 +36,70 @@ namespace AnimeWebApi.Controllers
             var anime = _mapper.Map<List<AnimeDto>>(_animeRepository.GetAnimes());
 
             if (!ModelState.IsValid)
-            { 
-                return BadRequest(ModelState);  
+            {
+                return BadRequest(ModelState);
             }
 
             return Ok(anime);
         }
+
+        [HttpGet("anime&viewer")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+
+        public IActionResult GetAnimeWithViewer()
+        {
+            var animeviewer = _animeRepository.GetAnimeWithViewer(); //here I dont need to map because I want All Anime poco class restur without showing in AnimeDto class
+            //below is nested Query ,I created new Oject and Storing anime data along with Viewer data to show in Swagger
+            var res = animeviewer.Select(a => new {
+
+               AnimeId = a.Id,
+               AnimeTitle=a.Title,
+               AnimeDetails=a.Details,
+                AnimeGenre=a.Genre,
+                   Viewer= a.AnimeViewers.Select(av=> new
+                    {
+                      vId =av.Viewer.Id,
+                     Viewername =av.Viewer.Name,
+                   critic = av.Viewer.Critic
+                    }).ToList()
+
+            }).ToList();
+            
+            
+            return Ok(res);
+
+
+
+            
+        }
+
+
+
+        [HttpGet("viewer/{animeId}")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+
+        public IActionResult GetViewerByAnime(int animeId)
+        {
+            var viewer = _mapper.Map<List<ViewerDto>>(_animeRepository.GetViewerByAnime(animeId));
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+                return Ok(viewer);  
+        }
+
+
+
+
+
+
 
         [HttpGet("{animeId}")]
         [ProducesResponseType(StatusCodes.Status200OK)]

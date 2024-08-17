@@ -19,23 +19,23 @@ namespace AnimeWebApi.Controllers
             _mapper = mapper;
         }
 
-        /*  [HttpGet]
+          [HttpGet]
           [ProducesResponseType(StatusCodes.Status200OK)]
           [ProducesResponseType(StatusCodes.Status400BadRequest)]
           [ProducesResponseType(StatusCodes.Status500InternalServerError)]
 
           public IActionResult GetCharacters()
-          {
+        {
 
-              var characters = _mapper.Map<List<CharacterDto>>(_characterRepository.GetCharacters());
-              if (!ModelState.IsValid)
-                  return BadRequest(ModelState);
+            var characters = _mapper.Map<List<CharacterDto>>(_characterRepository.GetCharacters());
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
 
-              return Ok(characters);
-          }*/
+            return Ok(characters);
+        }
 
 
-        [HttpGet]
+        [HttpGet("withAnime")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]

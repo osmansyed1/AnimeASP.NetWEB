@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\controllers\\viewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\controllers\\viewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\repository\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\repository\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\dto\\animedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\dto\\animedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\ianimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\ianimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\animeviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\animeviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\repository\\viewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\repository\\viewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\repository\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\repository\\characterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\iviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\iviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\dto\\viewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\dto\\viewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\icharacterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\dto\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,52 +79,12 @@
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\viewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\dto\\animedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\dto\\animedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\dto\\viewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\dto\\viewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\repository\\viewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\repository\\viewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\repository\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\repository\\animerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\ianimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\ianimerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\controllers\\viewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\controllers\\viewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\models\\animeviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\models\\animeviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\interface\\iviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|solutionrelative:animewebapi\\interface\\iviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56873D9-954C-4A16-BE83-4D1EF07DCC72}|AnimeWebApi\\AnimeWebApi.csproj|c:\\users\\yasse\\source\\repos\\animeweb\\animewebapi\\migrations\\20240814064945_initiald.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,20 +114,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "ViewerController.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\ViewerController.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Controllers\\ViewerController.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\ViewerController.cs",
               "RelativeToolTip": "AnimeWebApi\\Controllers\\ViewerController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAAwEQAAAAVAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T06:38:48.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ViewerDto.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Dto\\ViewerDto.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Dto\\ViewerDto.cs",
@@ -135,47 +135,43 @@
               "RelativeToolTip": "AnimeWebApi\\Dto\\ViewerDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:34:53.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T06:34:53.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "ViewerRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\ViewerRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Repository\\ViewerRepository.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\ViewerRepository.cs",
               "RelativeToolTip": "AnimeWebApi\\Repository\\ViewerRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA4AAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:32:43.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T06:32:43.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
               "Title": "IViewerRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Interface\\IViewerRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Interface\\IViewerRepository.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Interface\\IViewerRepository.cs",
               "RelativeToolTip": "AnimeWebApi\\Interface\\IViewerRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABBAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:29:14.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T06:29:14.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
               "Title": "AnimeViewer.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\AnimeViewer.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Models\\AnimeViewer.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\AnimeViewer.cs",
               "RelativeToolTip": "AnimeWebApi\\Models\\AnimeViewer.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAcAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T19:22:49.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:22:49.531Z"
             },
             {
               "$type": "Document",
@@ -191,20 +187,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Viewer.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Viewer.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Models\\Viewer.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Viewer.cs",
               "RelativeToolTip": "AnimeWebApi\\Models\\Viewer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAAAHAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T21:03:42.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Director.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Director.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Models\\Director.cs",
@@ -212,12 +208,11 @@
               "RelativeToolTip": "AnimeWebApi\\Models\\Director.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T21:03:04.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T21:03:04.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "AnimeWebApi\\appsettings.json",
@@ -225,77 +220,73 @@
               "RelativeToolTip": "AnimeWebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-14T20:31:05.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T20:31:05.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "AnimeDto.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Dto\\AnimeDto.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Dto\\AnimeDto.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Dto\\AnimeDto.cs",
               "RelativeToolTip": "AnimeWebApi\\Dto\\AnimeDto.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:34:59.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T14:34:59.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AnimeController.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\AnimeController.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Controllers\\AnimeController.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\AnimeController.cs",
               "RelativeToolTip": "AnimeWebApi\\Controllers\\AnimeController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAkwB4AAAAHAAAA",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAwwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T14:15:03.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "AnimeRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\AnimeRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Repository\\AnimeRepository.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\AnimeRepository.cs",
               "RelativeToolTip": "AnimeWebApi\\Repository\\AnimeRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAswCgAAAAMAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T14:08:17.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Anime.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Anime.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Models\\Anime.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Anime.cs",
               "RelativeToolTip": "AnimeWebApi\\Models\\Anime.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvxwAAABCAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:06:30.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T14:06:30.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "IAnimeRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Interface\\IAnimeRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Interface\\IAnimeRepository.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Interface\\IAnimeRepository.cs",
               "RelativeToolTip": "AnimeWebApi\\Interface\\IAnimeRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAAkAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:05:56.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T14:05:56.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "CharacterDto.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Dto\\CharacterDto.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Dto\\CharacterDto.cs",
@@ -303,12 +294,11 @@
               "RelativeToolTip": "AnimeWebApi\\Dto\\CharacterDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:58:16.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:58:16.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Models\\Character.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Models\\Character.cs",
@@ -316,12 +306,11 @@
               "RelativeToolTip": "AnimeWebApi\\Models\\Character.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAuwBEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:53:30.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:53:30.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Program.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Program.cs",
@@ -329,12 +318,11 @@
               "RelativeToolTip": "AnimeWebApi\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:28:34.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:28:34.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Helper\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Helper\\MappingProfiles.cs",
@@ -342,38 +330,36 @@
               "RelativeToolTip": "AnimeWebApi\\Helper\\MappingProfiles.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:22:37.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:22:37.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CharacterController.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\CharacterController.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Controllers\\CharacterController.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Controllers\\CharacterController.cs",
               "RelativeToolTip": "AnimeWebApi\\Controllers\\CharacterController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCAAAAAAAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwCUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T07:13:05.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "CharacterRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\CharacterRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Repository\\CharacterRepository.cs",
               "ToolTip": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Repository\\CharacterRepository.cs",
               "RelativeToolTip": "AnimeWebApi\\Repository\\CharacterRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACUAAAAhAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCQAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:06:40.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:06:40.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ICharacterRepository.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Interface\\ICharacterRepository.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Interface\\ICharacterRepository.cs",
@@ -381,8 +367,7 @@
               "RelativeToolTip": "AnimeWebApi\\Interface\\ICharacterRepository.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T07:04:26.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T07:04:26.274Z"
             },
             {
               "$type": "Document",
@@ -410,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\yasse\\source\\repos\\AnimeWeb\\AnimeWebApi\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "AnimeWebApi\\Data\\DataContext.cs",
@@ -418,8 +403,7 @@
               "RelativeToolTip": "AnimeWebApi\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T06:45:02.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T06:45:02.408Z"
             }
           ]
         }

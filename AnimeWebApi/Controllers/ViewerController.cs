@@ -72,7 +72,7 @@ namespace AnimeWebApi.Controllers
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
 
-        public IActionResult GetActionAnimeByViewer(int viewerId)
+        public IActionResult GetAnimeByViewer(int viewerId)
         {
             var animes = _mapper.Map<List<AnimeDto>>(_viewerRepository.GetAnimeByViewer(viewerId));
             if (!ModelState.IsValid)
