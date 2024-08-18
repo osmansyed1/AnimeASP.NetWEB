@@ -14,7 +14,8 @@ namespace AnimeWebApi.Helper
             CreateMap<AnimeDto,Anime>();
             CreateMap<Director, DirectorDto>();
             CreateMap<DirectorDto, Director>(); 
-            CreateMap<Viewer, ViewerDto>(); 
+            CreateMap<Viewer, ViewerDto>();
+            CreateMap<ViewerDto, Viewer>(); 
         }
     }
 }

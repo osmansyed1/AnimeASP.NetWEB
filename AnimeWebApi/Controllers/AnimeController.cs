@@ -51,7 +51,7 @@ namespace AnimeWebApi.Controllers
 
         public IActionResult GetAnimeWithViewer()
         {
-            var animeviewer = _animeRepository.GetAnimeWithViewer(); //here I dont need to map because I want All Anime poco class restur without showing in AnimeDto class
+            var animeviewer = _animeRepository.GetAnimeWithViewer(); //here I dont need to map because I want All Anime poco class records without showing in AnimeDto class
             //below is nested Query ,I created new Oject and Storing anime data along with Viewer data to show in Swagger
             var res = animeviewer.Select(a => new {
 
@@ -214,7 +214,7 @@ namespace AnimeWebApi.Controllers
             
             //Here I did  not use _mapper,To insert the value of Two Foreign key i.e CharacterId and 
             //directorId I am creating an object of Anime to manually store two foreign key
-            //oytherwaise it will give error FK_anime_characterId mismatch in original table
+            //oytherwise it will give error FK_anime_characterId mismatch in original table
             var anime = new Anime
             {
                 Title = createAnimeDto.Title,
@@ -231,7 +231,7 @@ namespace AnimeWebApi.Controllers
                 return Ok("Successfully Created");
             }
 
-            return StatusCode(500, "A problem happened while handling your request.");
+            return StatusCode(500, "A problem happened while handling  request");
         }
 
         [HttpPut("{anId}")]
